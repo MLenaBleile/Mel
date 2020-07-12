@@ -12,6 +12,7 @@ Even had the sudden, gripping desire to know whether a photo looks more like a p
     - numpy
  2. Put all the files in the same folder. create and activate the environment with:
   > conda env create -f environment.yml -n mel
+  
   > conda activate mel
  
  3. Finally, run the classifier on an image by running the following:
